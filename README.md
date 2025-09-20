@@ -143,3 +143,18 @@ Need Help?
 
 FYI
 The most recent Texas Roadway Inventory dataset can be downloaded from Texas Department of Transportation at http://gis-txdot.opendata.arcgis.com/datasets/txdot-roadway-inventory. This dataset contains more than 729,000 line features. The field RTE_PRFX differentiates the type of road such as interstate highway (IH), US highway (US), state highway (SH), and toll way (TL), whereas the field RTE_NBR contains the road number.
+
+
+# RESULT
+
+## Lab1 Map1 
+
+<img width="688" height="886" alt="Screenshot 2025-09-20 105950" src="https://github.com/user-attachments/assets/7101f968-43d1-42f9-8b75-88fa7b6906bd" />
+
+
+## Lab1 Map2
+
+
+<img width="688" height="896" alt="Screenshot 2025-09-20 110214" src="https://github.com/user-attachments/assets/b0cf66a3-5ccd-4ce5-b680-6ba5eb5d05b2" />
+
+
